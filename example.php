@@ -1,5 +1,5 @@
 <?php
-
+include 'crud.php';
 // Adım 1: Veritabanı bağlantısı oluşturun
 $host = 'localhost'; // Veritabanı sunucusunun adresi
 $dbname = 'your_database'; // Kullanılacak veritabanının adı
